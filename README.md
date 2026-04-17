@@ -8,11 +8,16 @@
 
 ## 🔧 Tech Stack
 
-* 💾 SQL | PL/SQL
-* 🔄 Oracle Data Integrator (ODI)
-* 📊 Power BI | Tableau
-* ☁️ Azure (Basics)
-* 🧹 Data Cleaning & Transformation
+| Category              | Tools & Technologies            |
+| --------------------- | ------------------------------- |
+| 💻 Languages          | SQL, Python                     |
+| 🗄️ Databases           | Oracle, MySQL, PostgreSQL       |
+| 🔄 ETL & Pipelines    | Oracle Data Integrator (ODI)    |
+| 📊 BI & Visualization | Power BI, Tableau               |
+|☁️ Cloud Platforms   | AWS (S3, EC2), Microsoft Azure (ADF, Azure SQL)|
+| 🧠 Data Engineering   | Data Modeling, Data Warehousing |
+| 🛠 Tools & Others     | Git                              |
+
 
 ---
 
