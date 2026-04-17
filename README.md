@@ -1,45 +1,72 @@
 # Hi, I'm Monika 👋
 
-🚀 Data Analyst with 2+ years of experience in SQL, ETL, and BI tools
-📊 Passionate about turning data into actionable insights
-☁️ Currently exploring Azure Data Engineering
+🚀 Data Analyst with 2+ years of experience in building scalable ETL pipelines and data-driven solutions
+☁️ Experienced in Azure & AWS cloud-based data engineering
+📊 Microsoft Certified Power BI Data Analyst (PL-300)
 
 ---
 
 ## 🔧 Tech Stack
 
-| Category              | Tools & Technologies            |
-| --------------------- | ------------------------------- |
-| 💻 Languages          | SQL, Python                     |
-| 🗄️ Databases           | Oracle, MySQL, PostgreSQL       |
-| 🔄 ETL & Pipelines    | Oracle Data Integrator (ODI)    |
-| 📊 BI & Visualization | Power BI, Tableau               |
-|☁️ Cloud Platforms   | AWS (S3, EC2), Microsoft Azure (ADF, Azure SQL)|
-| 🧠 Data Engineering   | Data Modeling, Data Warehousing |
-| 🛠 Tools & Others     | Git                              |
-
+| Category              | Tools & Technologies                                       |
+| --------------------- | ---------------------------------------------------------- |
+| 💻 Languages          | SQL, Python, PySpark                                       |
+| 🗄️ Databases         | Oracle, MySQL, PostgreSQL                                  |
+| 🔄 ETL & Pipelines    | ODI, Azure Data Factory (ADF), Apache Spark                |
+| 📊 BI & Visualization | Power BI, Tableau, DAX                                     |
+| ☁️ Cloud Platforms    | Azure (ADF, Data Lake, Databricks, Synapse), AWS (S3, EC2) |
+| 🧠 Data Engineering   | Data Modeling, Data Warehousing, Delta Lake                |
+| 🛠 Tools & Others     | Git                                                        |
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 Sales Performance Dashboard (Power BI)
-🔹 ETL Pipeline using ODI
-🔹 SQL Business Analysis
+### ☁️ Azure Data Pipeline (Medallion Architecture)
+
+* Built end-to-end pipeline using ADF, Databricks & PySpark
+* Implemented Bronze-Silver-Gold architecture
+* Improved processing time by 40%
+
+### 📊 Financial Performance Dashboard
+
+* Developed Power BI dashboard with DAX-based KPIs
+* Reduced reporting effort by 3 days
+* Implemented star schema model
+
+### 📈 Sales Performance Analytics
+
+* Built ETL pipelines integrating CRM & ERP data
+* Designed Tableau dashboards for regional insights
 
 ---
 
-## 📈 What I Bring
+## 🏆 Achievements
 
-✔ Strong SQL & data transformation skills
-✔ Hands-on experience with ETL pipelines
-✔ Business-focused analytical thinking
+* 🚀 Improved ETL performance by 40% through SQL & pipeline optimization
+* ⚡ Reduced manual effort by 60% via automation using Python
+* 🎯 Ensured 99.9% data accuracy using validation & reconciliation frameworks
+* 📊 Delivered dashboards enabling data-driven decision making
+
+---
+
+## 📜 Certifications
+
+* 🏅 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+
+---
+
+## 🎓 Education
+
+* 🎓 B.Tech in Electronics & Communication Engineering
+  Dr. A.P.J. Abdul Kalam Technical University (2019–2023)
+  CGPA: 8.8
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/monika-174204215/
+* LinkedIn: https://linkedin.com/in/monika-k-174204215
 * Email: monikak90100@gmail.com
 
 ---
