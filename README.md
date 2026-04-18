@@ -66,8 +66,8 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/monika-k-174204215
-* Email: monikak90100@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/monika-174204215/)  
+- 📧 [Email](mailto:monikak90100@gmail.com)
 
 ---
 
