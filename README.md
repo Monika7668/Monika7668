@@ -22,7 +22,7 @@
 
 ## 📌 Featured Projects
 
-### ☁️ Azure Data Pipeline (Medallion Architecture)
+### ☁️ [Azure Data Pipeline (Medallion Architecture)](https://github.com/Monika7668/azure-data-pipeline-medallion.git)
 
 * Built end-to-end pipeline using ADF, Databricks & PySpark
 * Implemented Bronze-Silver-Gold architecture
