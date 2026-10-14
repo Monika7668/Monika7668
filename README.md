@@ -1,8 +1,8 @@
 # Hi, I'm Monika 👋
 
-🚀 Data Analyst with 2+ years of experience in building scalable ETL pipelines and data-driven solutions
+🚀 Data Engineer with 2+ years of experience in building scalable ETL pipelines and data-driven solutions
 ☁️ Experienced in Azure & AWS cloud-based data engineering
-📊 Microsoft Certified Power BI Data Analyst (PL-300)
+📊 Microsoft Certified Power BI Data Analyst (PL-300) and Databricks Certified Data Engineer Associate
 
 ---
 
@@ -53,6 +53,7 @@
 ## 📜 Certifications
 
 * 🏅 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+* 🏅 Databricks Certified : Data Engineer Associate
 
 ---
 
